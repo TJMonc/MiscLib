@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\Misc.dir/objects.a
+C:\msys64\mingw32\bin\ar.exe qc CMakeFiles\Misc.dir/objects.a @CMakeFiles\Misc.dir\objects1.rsp
+C:\msys64\mingw32\bin\c++.exe -shared -o C:\Users\terra\Downloads\Projects\Libraries\MinGW\MiscLib\bin\libMisc.dll -Wl,--out-implib,C:\Users\terra\Downloads\Projects\Libraries\MinGW\MiscLib\bin\libMisc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\Misc.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\Misc.dir\linkLibs.rsp
