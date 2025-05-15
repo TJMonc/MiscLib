@@ -1,3 +1,0 @@
-C:/Users/terra/Downloads/Projects/Libraries/MinGW/MiscLib/Build/CMakeFiles/Misc.dir
-C:/Users/terra/Downloads/Projects/Libraries/MinGW/MiscLib/Build/CMakeFiles/edit_cache.dir
-C:/Users/terra/Downloads/Projects/Libraries/MinGW/MiscLib/Build/CMakeFiles/rebuild_cache.dir
