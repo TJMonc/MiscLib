@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/include",
-                "C:/SFML-2.6.1/MinGW (32 bit)/include"
+                "C:\\SFML\\3.0.0\\MinGW (64 bit)\\include"
             ],
             "defines": [
                 "_DEBUG",
