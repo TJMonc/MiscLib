@@ -132,7 +132,7 @@ Vector2f Game::getVectors(const Vector2f playerCenter, const Vector2f otherCente
 }
 
 void Game::loadFont(Text& text, Font& font, std::string path) {
-	if (!font.loadFromFile(path)) {
+	if (!font.openFromFile(path)) {
 		throw FileError(path);
 	}
 	text.setFont(font);
