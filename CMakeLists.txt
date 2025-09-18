@@ -17,7 +17,7 @@ set(SFML_SRC_DIR ${FETCHCONTENT_BASE_DIR}/sfml-src)
 set(SFML_BUILD_DIR ${FETCHCONTENT_BASE_DIR}/lib)
 set(INCLUDE_DIRECTORIES ${SFML_SRC_DIR}/include "include")
 set(LINK_DIRECTORIES ${SFML_BUILD_DIR})
-set(LINK_LIBRARIES sfml-graphics sfml-window sfml-audio sfml-main sfml-network sfml-system)
+set(LINK_LIBRARIES sfml-graphics sfml-window sfml-audio sfml-network sfml-system)
 
 #configure target
 option(BUILD_SHARED_LIBS "Build shared libraries" ON)
