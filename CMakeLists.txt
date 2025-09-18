@@ -25,6 +25,4 @@ target_include_directories(${PROJECT_NAME} PRIVATE ${INCLUDE_DIRECTORIES})
 target_link_directories(${PROJECT_NAME} PRIVATE ${LINK_DIRECTORIES})
 target_link_libraries(${PROJECT_NAME} ${LINK_LIBRARIES})
 
-add_dependencies(Misc sfml-graphics sfml-window sfml-audio sfml-main sfml-network sfml-system)
-
 
